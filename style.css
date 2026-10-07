@@ -21,7 +21,13 @@ nav a:hover {
     line-height: 1.7;
 }
 
-header {
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+ header {
     background: #0f172a;
     color: white;
     text-align: center;
