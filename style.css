@@ -121,4 +121,14 @@ header a:hover {
     padding: 10px 16px;
     border-radius: 8px;
     font-weight: bold;
+}#research div {
+    background: #f8fafc;
+    padding: 25px;
+    border-radius: 10px;
+    border-left: 5px solid #0f172a;
+}
+
+#research h3 {
+    font-size: 22px;
+    margin-top: 0;
 }
